@@ -1,4 +1,4 @@
-Projeto angular PWA com homepage estilizada, login, cadastro, dashboard e perfil semi prontos.
+Projeto angular PWA com homepage, login, cadastro, dashboard e perfil semi prontos.
 
 **🥰 em desenvolvimento**, **😝 apenas para telas menores que 400px**
 
