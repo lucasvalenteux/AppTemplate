@@ -17,7 +17,7 @@ em seguida
 
 🔸 **ng serve**
 
-e para visualizar, acesse no navegador
+e para visualizar, acesse o seguinte endereço no navegador
 
 🔸 **localhost:4200**
 
