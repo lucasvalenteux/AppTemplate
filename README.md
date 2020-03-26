@@ -8,15 +8,15 @@ https://angulartemplate0.herokuapp.com/
 
 Para inicializar, entre no projeto via terminal e digite:
 
-**npm start**
+🔸 **npm start**
 
 em seguida
 
-**ng serve**
+🔸 **ng serve**
 
 e para visualizar acesse no navegador
 
-**localhost:4200**
+🔸 **localhost:4200**
 
 
 
