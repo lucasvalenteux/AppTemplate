@@ -21,7 +21,3 @@ e para visualizar, acesse o seguinte endereço no navegador
 
 🔸 **localhost:4200**
 
-
-
-Caso queira mais detalhes, acesso o tutorial abaixo de configuração da área de login
-https://angular-templates.io/tutorials/about/firebase-authentication-with-angular
