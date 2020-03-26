@@ -5,8 +5,11 @@ Projeto angular PWA com homepage estilizada, login, cadastro, dashboard e perfil
 Preview (em breve):
 https://angulartemplate0.herokuapp.com/
 
+---------------------------------------------------------------------------------------------
 
-Para inicializar, entre no projeto via terminal e digite:
+🔸 **faça o download ou clone o repositório para o seu computador**
+
+Para inicializar o projeto localmente, entre nele via terminal e digite:
 
 🔸 **npm start**
 
@@ -14,7 +17,7 @@ em seguida
 
 🔸 **ng serve**
 
-e para visualizar acesse no navegador
+e para visualizar, acesse no navegador
 
 🔸 **localhost:4200**
 
