@@ -1,6 +1,6 @@
 Projeto angular PWA com homepage estilizada, login, cadastro, dashboard e perfil semi prontos.
 
-*em desenvolvimento, *apenas para telas menores que 400px
+**em desenvolvimento**, **apenas para telas menores que 400px**
 
 Preview (em breve):
 https://angulartemplate0.herokuapp.com/
