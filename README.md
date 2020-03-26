@@ -5,7 +5,7 @@ Para inicializar, entre no projeto via terminal e digite:
 
 em seguida
 
-**ng server**
+**ng serve**
 
 e para visualizar acesse no navegador
 
